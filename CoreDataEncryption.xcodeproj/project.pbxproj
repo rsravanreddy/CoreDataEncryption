@@ -22,6 +22,12 @@
 		A0F2DC2418DA8479002293F4 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0F2DC0818DA8479002293F4 /* CoreData.framework */; };
 		A0F2DC2C18DA8479002293F4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A0F2DC2A18DA8479002293F4 /* InfoPlist.strings */; };
 		A0F2DC2E18DA8479002293F4 /* CoreDataEncryptionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC2D18DA8479002293F4 /* CoreDataEncryptionTests.m */; };
+		A0F2DC3A18DA8578002293F4 /* Entity1.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC3918DA8578002293F4 /* Entity1.m */; };
+		A0F2DC3E18DA85D6002293F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC3C18DA85D6002293F4 /* ViewController.m */; };
+		A0F2DC3F18DA85D6002293F4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F2DC3D18DA85D6002293F4 /* ViewController.xib */; };
+		A0F2DC4218DA91B2002293F4 /* NSManagedObject+Encryption.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC4118DA91B2002293F4 /* NSManagedObject+Encryption.m */; };
+		A0F2DC4518DA920D002293F4 /* EntityEncryptionTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC4418DA920D002293F4 /* EntityEncryptionTransformer.m */; };
+		A0F2DC5118DBF00E002293F4 /* NSData+Encryption.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F2DC5018DBF00E002293F4 /* NSData+Encryption.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +59,17 @@
 		A0F2DC2918DA8479002293F4 /* CoreDataEncryptionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CoreDataEncryptionTests-Info.plist"; sourceTree = "<group>"; };
 		A0F2DC2B18DA8479002293F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A0F2DC2D18DA8479002293F4 /* CoreDataEncryptionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoreDataEncryptionTests.m; sourceTree = "<group>"; };
+		A0F2DC3818DA8578002293F4 /* Entity1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Entity1.h; sourceTree = "<group>"; };
+		A0F2DC3918DA8578002293F4 /* Entity1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Entity1.m; sourceTree = "<group>"; };
+		A0F2DC3B18DA85D6002293F4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A0F2DC3C18DA85D6002293F4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A0F2DC3D18DA85D6002293F4 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		A0F2DC4018DA91B2002293F4 /* NSManagedObject+Encryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSManagedObject+Encryption.h"; sourceTree = "<group>"; };
+		A0F2DC4118DA91B2002293F4 /* NSManagedObject+Encryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSManagedObject+Encryption.m"; sourceTree = "<group>"; };
+		A0F2DC4318DA920D002293F4 /* EntityEncryptionTransformer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EntityEncryptionTransformer.h; sourceTree = "<group>"; };
+		A0F2DC4418DA920D002293F4 /* EntityEncryptionTransformer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EntityEncryptionTransformer.m; sourceTree = "<group>"; };
+		A0F2DC4F18DBF00E002293F4 /* NSData+Encryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Encryption.h"; sourceTree = "<group>"; };
+		A0F2DC5018DBF00E002293F4 /* NSData+Encryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Encryption.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +101,10 @@
 		A0F2DBF618DA8478002293F4 = {
 			isa = PBXGroup;
 			children = (
+				A0F2DC4F18DBF00E002293F4 /* NSData+Encryption.h */,
+				A0F2DC5018DBF00E002293F4 /* NSData+Encryption.m */,
+				A0F2DC4018DA91B2002293F4 /* NSManagedObject+Encryption.h */,
+				A0F2DC4118DA91B2002293F4 /* NSManagedObject+Encryption.m */,
 				A0F2DC0A18DA8479002293F4 /* CoreDataEncryption */,
 				A0F2DC2718DA8479002293F4 /* CoreDataEncryptionTests */,
 				A0F2DC0118DA8479002293F4 /* Frameworks */,
@@ -119,6 +140,13 @@
 				A0F2DC1418DA8479002293F4 /* AppDelegate.m */,
 				A0F2DC1918DA8479002293F4 /* Images.xcassets */,
 				A0F2DC1618DA8479002293F4 /* CoreDataEncryption.xcdatamodeld */,
+				A0F2DC3818DA8578002293F4 /* Entity1.h */,
+				A0F2DC4318DA920D002293F4 /* EntityEncryptionTransformer.h */,
+				A0F2DC4418DA920D002293F4 /* EntityEncryptionTransformer.m */,
+				A0F2DC3918DA8578002293F4 /* Entity1.m */,
+				A0F2DC3B18DA85D6002293F4 /* ViewController.h */,
+				A0F2DC3C18DA85D6002293F4 /* ViewController.m */,
+				A0F2DC3D18DA85D6002293F4 /* ViewController.xib */,
 				A0F2DC0B18DA8479002293F4 /* Supporting Files */,
 			);
 			path = CoreDataEncryption;
@@ -229,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0F2DC0F18DA8479002293F4 /* InfoPlist.strings in Resources */,
+				A0F2DC3F18DA85D6002293F4 /* ViewController.xib in Resources */,
 				A0F2DC1A18DA8479002293F4 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,7 +279,12 @@
 			files = (
 				A0F2DC1818DA8479002293F4 /* CoreDataEncryption.xcdatamodeld in Sources */,
 				A0F2DC1518DA8479002293F4 /* AppDelegate.m in Sources */,
+				A0F2DC4518DA920D002293F4 /* EntityEncryptionTransformer.m in Sources */,
+				A0F2DC3A18DA8578002293F4 /* Entity1.m in Sources */,
 				A0F2DC1118DA8479002293F4 /* main.m in Sources */,
+				A0F2DC4218DA91B2002293F4 /* NSManagedObject+Encryption.m in Sources */,
+				A0F2DC3E18DA85D6002293F4 /* ViewController.m in Sources */,
+				A0F2DC5118DBF00E002293F4 /* NSData+Encryption.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,6 +487,7 @@
 				A0F2DC3318DA8479002293F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0F2DC3418DA8479002293F4 /* Build configuration list for PBXNativeTarget "CoreDataEncryptionTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +496,7 @@
 				A0F2DC3618DA8479002293F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

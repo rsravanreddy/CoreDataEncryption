@@ -1,0 +1,1013 @@
+TCoreDataEncryption
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld
+cProcessPCH /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+cAnalyze /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+cLd /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption normal i386
+cCopyStringsFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings CoreDataEncryption/en.lproj/InfoPlist.strings
+cCompileXIB /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib
+cCompileAssetCatalog /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets
+cProcessInfoPlistFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist
+cGenerateDSYMFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption
+cTouch /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000528AE81200000000000003B5
+t1384835090
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000528AE81600000000000001A0
+t1384835094
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000528AE81700000000005838D0
+t1384835095
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000528AE81700000000006C6DC0
+t1384835095
+s7105984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000528AE81700000000005B82A0
+t1384835095
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000528AE8170000000000445870
+t1384835095
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000528AE8170000000000355050
+t1384835095
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000528AE81700000000002F6810
+t1384835095
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000528AE817000000000004B000
+t1384835095
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000528AE818000000000088C680
+t1384835096
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000528AE8180000000000037620
+t1384835096
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000528AE81900000000004848F0
+t1384835097
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000528AE81900000000001290B0
+t1384835097
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000528AE81A0000000001DB9910
+t1384835098
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000528AE82100000000002B9F20
+t1384835105
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000528AE8240000000000002338
+t1384835108
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000528AE824000000000008D300
+t1384835108
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000528AE824000000000038ACB0
+t1384835108
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000526715EB00000000000141F0
+t1382487531
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000528AE8240000000000013500
+t1384835108
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000528AE8240000000000033BA0
+t1384835108
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000528AE824000000000001CFB0
+t1384835108
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000528AE824000000000001B2B0
+t1384835108
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000528AE82400000000000632B0
+t1384835108
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000528AE8240000000000008880
+t1384835108
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000528AE8240000000000015080
+t1384835108
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000528AE82400000000000230E0
+t1384835108
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000528AE824000000000000E380
+t1384835108
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000528AE8240000000000087200
+t1384835108
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000528AE82400000000000171A0
+t1384835108
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000528AE8240000000000039C10
+t1384835108
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000528AE824000000000000B0B0
+t1384835108
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000528AE8250000000000167FE0
+t1384835109
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000528AE82400000000000106A0
+t1384835108
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000528AE825000000000001CE40
+t1384835109
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000528AE8250000000000071040
+t1384835109
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000528AE8250000000000067A10
+t1384835109
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000528AE825000000000001BAD0
+t1384835109
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000528AE8250000000000088BA0
+t1384835109
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000528AE8320000000000000AC9
+t1384835122
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000528AE8320000000000005004
+t1384835122
+s20484
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o
+t1395283822
+s80736
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/CoreDataEncryption.LinkFileList
+c00000000532BB8EB00000000000004AE
+t1395374315
+s1198
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o
+t1395284559
+s8272
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o
+t1395376010
+s15840
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o
+t1395376845
+s9676
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o
+t1395373406
+s5516
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o
+c00000000532BB6F10000000000001D44
+t1395373809
+s7492
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o
+t1395284559
+s54052
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o
+t1395281668
+s3680
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/AppDelegate.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/Entity1.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/EntityEncryptionTransformer.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/NSData+Encryption.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/NSManagedObject+Encryption.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/ViewController.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/main.plist
+t1395376845
+s382
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_dependencies.txt
+t1395281669
+s424
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_generated_info.plist
+t1395281669
+s525
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch
+t1395281668
+s108840
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch
+t1395376845
+s108976
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app
+t1395376845
+s340
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM
+t1395376845
+s102
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption
+t1395376845
+s36680
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd
+t1395285462
+s170
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist
+t1395281669
+s1229
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/PkgInfo
+t1395281669
+s8
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/ViewController.nib
+t1395281669
+s836
+
+N/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings
+t1395281668
+s42
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.h
+c00000000532A4CF90000000000000261
+t1395281145
+s609
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+c00000000532A576E0000000000001B21
+t1395283822
+s6945
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist
+c00000000532A4CF900000000000005AF
+t1395281145
+s1455
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch
+c00000000532A4CF9000000000000017A
+t1395281145
+s378
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld
+c00000000532A5DD60000000000000088
+t1395285462
+s136
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.h
+c00000000532A5A4F000000000000014F
+t1395284559
+s335
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+c00000000532A4DF700000000000000CF
+t1395281399
+s207
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.h
+c00000000532BB55E00000000000000FE
+t1395373406
+s254
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+c00000000532BBF88000000000000099F
+t1395376008
+s2463
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets
+c00000000532A4CF90000000000000088
+t1395281145
+s136
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/NSManagedObject_Encryption.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.h
+c00000000532A4E5500000000000000D8
+t1395281493
+s216
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+c00000000532A58E800000000000006E6
+t1395284200
+s1766
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib
+c00000000532A4E55000000000000050E
+t1395281493
+s1294
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/en.lproj/InfoPlist.strings
+c00000000532A4CF9000000000000002D
+t1395281145
+s45
+
+N/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+c00000000532A4CF90000000000000152
+t1395281145
+s338
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.h
+c00000000532BBF230000000000000175
+t1395375907
+s373
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+c00000000532BC2C800000000000009D0
+t1395376840
+s2512
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.h
+c00000000532A5A3100000000000000E5
+t1395284529
+s229
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+c00000000532A6E03000000000000022C
+t1395289603
+s556
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m
+c00000000532BB6F1000000000000049E
+t1395373809
+s1182
+
+N/usr/lib/libSystem.B.dylib
+c00000000526715DE000000000000E6D0
+t1382487518
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526715EB0000000000012A00
+t1382487531
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526715D2000000000002E320
+t1382487506
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526715DE0000000000021860
+t1382487518
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526715EA000000000001B620
+t1382487530
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526715EA00000000000BD920
+t1382487530
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000526715EB00000000000141F0
+t1382487531
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526715EB000000000000A120
+t1382487531
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000526715EB000000000001D550
+t1382487531
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526715EA0000000000014EE0
+t1382487530
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526715EC0000000000010380
+t1382487532
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526715EC000000000000C4C0
+t1382487532
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526715EB00000000000357A0
+t1382487531
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526715EB000000000000C070
+t1382487531
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000526715DE0000000000168C00
+t1382487518
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000526715EA0000000000010630
+t1382487530
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000526715EB000000000001DF10
+t1382487531
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526715DE0000000000075B00
+t1382487518
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000526715DE000000000007CC70
+t1382487518
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526715DE00000000000766C0
+t1382487518
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000526715EB0000000000044DC0
+t1382487531
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526715DE0000000000021FA0
+t1382487518
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000526715EB000000000002D900
+t1382487531
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526715EB000000000001E570
+t1382487531
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000526715E4000000000000CC70
+t1382487524
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526715E6000000000000C3F0
+t1382487526
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526715EB00000000000199F0
+t1382487531
+s104944
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+s417069645.537595
+e417069645.638210
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m40"Analyze CoreDataEncryption/AppDelegate.mb7b5894dfadbb841^6362a34dfadbb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m0000000000000000^4163"Analyze CoreDataEncryption/AppDelegate.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/AppDelegate.plist36"E785F90A-7943-475F-9C27-A87FD0C82A16-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+s417069645.538395
+e417069645.614668
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m36"Analyze CoreDataEncryption/Entity1.m89ee894dfadbb841^d95c9d4dfadbb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m0000000000000000^4151"Analyze CoreDataEncryption/Entity1.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/Entity1.plist36"9FDF310D-5093-43B9-A161-6C25EF3FF889-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+s417069645.537989
+e417069645.633931
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m56"Analyze CoreDataEncryption/EntityEncryptionTransformer.m02d7894dfadbb841^b69da24dfadbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m0000000000000000^4211"Analyze CoreDataEncryption/EntityEncryptionTransformer.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/EntityEncryptionTransformer.plist36"1E22F657-C99E-4527-BA94-0FA5AD9763B0-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+s417069645.540351
+e417069645.631123
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m43"Analyze CoreDataEncryption/ViewController.mf7738a4dfadbb841^bc91a14dfadbb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m0000000000000000^4172"Analyze CoreDataEncryption/ViewController.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/ViewController.plist36"DF11FBD6-3055-44CE-9192-1689D4C3BC74-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+s417069645.539074
+e417069645.630032
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m33"Analyze CoreDataEncryption/main.m68208a4dfadbb841^7f4ea14dfadbb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m0000000000000000^4142"Analyze CoreDataEncryption/main.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/main.plist36"5F5593E5-B062-4447-8571-A201C5AA8C2A-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+s417069645.541380
+e417069645.633619
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Analyze /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m27"Analyze NSData+Encryption.mf5b98a4dfadbb841^a435a24dfadbb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m0000000000000000^4143"Analyze NSData+Encryption.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/NSData+Encryption.plist36"E88CAADB-3B7D-4C3D-8629-680818192ACD-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CAnalyze /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+s417069645.539613
+e417069645.629903
+r1
+xAnalyze
+x/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Analyze /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m36"Analyze NSManagedObject+Encryption.m92418a4dfadbb841^fa41a14dfadbb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m0000000000000000^4170"Analyze NSManagedObject+Encryption.m    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch --analyze /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/StaticAnalyzer/CoreDataEncryption/CoreDataEncryption/normal/i386/NSManagedObject+Encryption.plist36"D3D83891-E2B7-4AE2-8614-0EEB3C01C412-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+r0
+
+CBuild AST from /Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa94f5a53fadbb841^c11a5b53fadbb841^---0#1#1#--18"Check dependencies36"5EFA536D-71E3-4495-8622-1708C8D800A1-
+
+CCompileAssetCatalog /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets
+s416974468.924188
+e416974469.741146
+r1
+xCompileAssetCatalog
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/LaunchImage-700-568h@2x.png
+o/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Assets.car
+o/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CoreDataEncryption.app CoreDataEncryption/Images.xcassets114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CoreDataEncryption.app CoreDataEncryption/Images.xcassets7aa5ec8486dab841^45bcbd8586dab841^-452"/* com.apple.actool.compilation-results *//Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/LaunchImage-700-568h@2x.png/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Assets.car/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@83"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets/0000000000000000^1257"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CoreDataEncryption.app CoreDataEncryption/Images.xcassets    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Images.xcassets36"D313DB7C-8F73-40BC-81CF-6A051321F0B6-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416976622.177299
+e416976622.307441
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.h
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m235"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o CoreDataEncryption/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e792dee8edab841^f2b64eee8edab841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m0000000000000000^3979"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o CoreDataEncryption/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.dia -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o36"494A95C3-D4E6-4EEA-8741-416D8F6515BE-
+b73968CAF-5777-4D94-9102-B277538D6A93
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416977359.642388
+e416977359.680067
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.h
+d/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m227"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o CoreDataEncryption/Entity1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c8aa4cf91dab841^db19aecf91dab841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m0000000000000000^3955"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o CoreDataEncryption/Entity1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.dia -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o36"D51462FC-CE15-4F88-8BAA-4C139F102DD6-
+b76B90B4A-2498-4C8D-A796-4BEB814FE7B0
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417068810.467779
+e417068810.699746
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.h
+d/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m267"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o CoreDataEncryption/EntityEncryptionTransformer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc328780af7dbb841^739fb80af7dbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m0000000000000000^4075"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o CoreDataEncryption/EntityEncryptionTransformer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.dia -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o36"6A7256F0-80BB-4C99-9D29-0200CF141503-
+b5BC8D19D-1A3E-4C04-B893-2B25BA91BCE1
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417069645.537144
+e417069645.586689
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o
+x/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m
+d/Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m228"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o NSData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler88a1894dfadbb841^d731964dfadbb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m0000000000000000^3977"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o NSData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.dia -c /Users/sravan/Desktop/CoreDataEncryption/NSData+Encryption.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o36"57A23E16-540E-4D35-80D9-0C859371BBE4-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417066206.467801
+e417066206.926608
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o
+x/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m
+d/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.h
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/EntityEncryptionTransformer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m246"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o NSManagedObject+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7bd877deecdbb841^bd38eddeecdbb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m0000000000000000^4031"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o NSManagedObject+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.dia -c /Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o36"2E70D572-C189-4673-B23C-3D5573273FEB-
+b254A27F7-4BA3-4A4E-9990-5DCDEA69D3FD
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o /Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417066609.652675
+e417066609.707498
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o
+x/Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m
+d/Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m242"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o NSMutableData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e38a771eedbb841^e220b571eedbb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m0000000000000000^4019"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o NSMutableData+Encryption.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.dia -c /Users/sravan/Desktop/CoreDataEncryption/NSMutableData+Encryption.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSMutableData+Encryption.o36"C54495C4-0C02-40D7-B1CF-564A8009857D-
+bE17D07B7-C389-4D2A-8984-1065E5B929A9
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416977359.642813
+e416977359.711799
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.h
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.h
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/Entity1.h
+d/Users/sravan/Desktop/CoreDataEncryption/NSManagedObject+Encryption.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m241"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o CoreDataEncryption/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd6aba4cf91dab841^6039b6cf91dab841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m0000000000000000^3997"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o CoreDataEncryption/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.dia -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o36"B393963F-D8B2-4183-A8CD-392CAEA33C73-
+b76B90B4A-2498-4C8D-A796-4BEB814FE7B0
+
+CCompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416974468.349910
+e416974468.688483
+r1
+xCompileC
+xBuild/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m221"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o CoreDataEncryption/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler56b8598486dab841^6342b08486dab841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m0000000000000000^3937"CompileC Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o CoreDataEncryption/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -include /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.dia -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/main.m -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o36"9875E14E-27F5-4D5D-A26F-514ACC68EEB8-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CCompileXIB /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib
+s416974468.922882
+e416974469.685633
+r1
+xCompileXIB
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib48"CompileXIB CoreDataEncryption/ViewController.xib4c4fec8486dab841^b186af8586dab841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib0000000000000000^796"CompileXIB CoreDataEncryption/ViewController.xib    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/ViewController.nib /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/ViewController.xib36"73B974EB-7BF3-4F02-AB06-385FA692BD6D-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CCopyStringsFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings CoreDataEncryption/en.lproj/InfoPlist.strings
+s416974468.922780
+e416974468.923929
+r1
+xCopyStringsFile
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings
+xCoreDataEncryption/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy CoreDataEncryption/en.lproj/InfoPlist.strings148"CopyStringsFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings CoreDataEncryption/en.lproj/InfoPlist.stringsba49ec8486dab841^4487ec8486dab841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/en.lproj/InfoPlist.strings0000000000000000^641"CopyStringsFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj/InfoPlist.strings CoreDataEncryption/en.lproj/InfoPlist.strings    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/en.lproj -- CoreDataEncryption/en.lproj/InfoPlist.strings36"48D2EA06-3272-4B45-B0AC-168BAB676AC5-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CDataModelVersionCompile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld
+s416978262.081847
+e416978262.337510
+r1
+xDataModelVersionCompile
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld
+o2014-03-19 23:17:42.300 cdtool_Sim[43330:303] CoreData: warning: no NSValueTransformer with class name 'EntityEncryptionTransformer' was found for attribute 'attribute1' on entity 'Entity1'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd CoreDataEncryption/CoreDataEncryption.xcdatamodeld158"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd CoreDataEncryption/CoreDataEncryption.xcdatamodeldfb03155695dab841^b79b585695dab841^-190"2014-03-19 23:17:42.300 cdtool_Sim[43330:303] CoreData: warning: no NSValueTransformer with class name 'EntityEncryptionTransformer' was found for attribute 'attribute1' on entity 'Entity1'-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld/0000000000000000^975"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd CoreDataEncryption/CoreDataEncryption.xcdatamodeld    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption.xcdatamodeld /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption.momd36"5F4BEDD6-652F-4C70-9BCA-1F87A028F246-
+b9E1E107F-CE7B-4860-8A6B-F020C15F5F0B
+
+CGenerateDSYMFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption
+s417069645.674883
+e417069645.691482
+r1
+xGenerateDSYMFile
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM160"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption74d1ac4dfadbb841^af05b14dfadbb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM/0000000000000000^733"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption -o /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app.dSYM36"650F34C5-2C6C-4EC3-9E60-5E26620F8DB4-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CLd /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption normal i386
+s417069645.639672
+e417069645.673297
+r1
+xLd
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption
+xnormal
+xi386
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/CoreDataEncryption.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/AppDelegate.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/EntityEncryptionTransformer.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/Entity1.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/main.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSManagedObject+Encryption.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/ViewController.o
+d/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/NSData+Encryption.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption93"Ld Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption normal i38603d1a34dfadbb841^b35eac4dfadbb841^---0#0#1#--1531"Ld Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption normal i386    cd /Users/sravan/Desktop/CoreDataEncryption    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -filelist /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/CoreDataEncryption.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/Objects-normal/i386/CoreDataEncryption_dependency_info.dat -o /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/CoreDataEncryption36"AC579303-7606-4433-883F-2C63CB522784-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CProcessInfoPlistFile /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist
+s416974469.741641
+e416974469.743133
+r1
+xProcessInfoPlistFile
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist
+x/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist140"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist CoreDataEncryption/CoreDataEncryption-Info.plistd1e9bd8586dab841^e23ebe8586dab841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist0000000000000000^991"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist CoreDataEncryption/CoreDataEncryption-Info.plist    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Info.plist -genpkginfo /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/assetcatalog_generated_info.plist -o /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app/Info.plist36"4E0DF219-EF12-4D95-A4A6-6E4B2B1B44B4-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CProcessPCH /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416974466.757341
+e416974468.348827
+r1
+xProcessPCH
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch
+xCoreDataEncryption/CoreDataEncryption-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CoreDataEncryption/CoreDataEncryption-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4df4c18286dab841^054f598486dab841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch0000000000000000^3850"ProcessPCH Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.dia -MMD -MT dependencies -MF /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.d -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-buopsoqxglgkigfcmajsqkjqokhd/CoreDataEncryption-Prefix.pch.pch36"6B3E8EBE-2930-466A-B188-F52F94972182-
+bD38ACDC9-7408-4D90-85B5-3427999DEBC4
+
+CProcessPCH /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s417069644.426833
+e417069645.534863
+r1
+xProcessPCH
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch
+xCoreDataEncryption/CoreDataEncryption-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CoreDataEncryption/CoreDataEncryption-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzerc05e6d4cfadbb841^3eed884dfadbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch0000000000000000^4173"ProcessPCH Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/sravan/Desktop/CoreDataEncryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sravan/Desktop/CoreDataEncryption/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.0 -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-generated-files.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-own-target-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-all-target-headers.hmap -iquote /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/CoreDataEncryption-project-headers.hmap -I/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources/i386 -I/Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/CoreDataEncryption.build/Debug-iphonesimulator/CoreDataEncryption.build/DerivedSources -F/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator -c /Users/sravan/Desktop/CoreDataEncryption/CoreDataEncryption/CoreDataEncryption-Prefix.pch -o /Users/sravan/Desktop/CoreDataEncryption/Build/Intermediates/PrecompiledHeaders/CoreDataEncryption-Prefix-crxwphhcnbffssbpiynxfigzomas/CoreDataEncryption-Prefix.pch.pch36"B0524CD9-5378-439B-9766-10D174D174A3-
+b8A4522C3-F175-4FE1-9859-0B8CA568FA86
+
+CProcessPCH /Users/sravan/Desktop/CoreDataEncryption/DerivedData/CoreDataEncryption/Index/PrecompiledHeaders/CoreDataEncryption-Prefix-hdsvkcpkirxklpfwfvbuoveqjhix_ast/CoreDataEncryption-Prefix.pch.pch CoreDataEncryption/CoreDataEncryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app
+s416977359.759604
+e416977359.764817
+r1
+xTouch
+x/Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app65"Touch Build/Products/Debug-iphonesimulator/CoreDataEncryption.app4182c2cf91dab841^b4cbc3cf91dab841^---0#0#1#--432"Touch Build/Products/Debug-iphonesimulator/CoreDataEncryption.app    cd /Users/sravan/Desktop/CoreDataEncryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sravan/Desktop/CoreDataEncryption/Build/Products/Debug-iphonesimulator/CoreDataEncryption.app36"1BF639BC-4ED6-42A6-A2BB-C4C370D701D4-
+b76B90B4A-2498-4C8D-A796-4BEB814FE7B0
+
